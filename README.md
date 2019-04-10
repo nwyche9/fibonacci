@@ -1,3 +1,3 @@
 # something
 
-Synchrony is a file where we implemented a parallel website.
+Synchrony is a file where we implemented a parallax effect on a website.
